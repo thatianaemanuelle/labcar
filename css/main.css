@@ -232,6 +232,12 @@ footer li {
     padding-bottom: 1em;
 }
 
+.footer-link{
+    color: white;    
+}
+.footer-link:hover{
+    color: red;    
+}
 .icons-social {
     padding: 0;
 }
@@ -389,7 +395,7 @@ button.close {
     padding: 25px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 476px) {
     .navbar-default {
         padding: 1em;
     }
